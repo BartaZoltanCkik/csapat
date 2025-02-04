@@ -1,2 +1,6 @@
 benneatartalom
+<<<<<<< HEAD
 Barta Zoltan
+=======
+Forgacs Levente
+>>>>>>> a04c662da7a9b43b7577327b156c025da63f3b50
